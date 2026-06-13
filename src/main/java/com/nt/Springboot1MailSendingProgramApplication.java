@@ -15,5 +15,9 @@ public class Springboot1MailSendingProgramApplication
 	{
 		System.out.println("run");
 	}
+	public void ravi()
+	{
+		System.out.println("ravi");
+	}
 
 }
