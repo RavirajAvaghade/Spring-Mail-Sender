@@ -23,5 +23,9 @@ public class Springboot1MailSendingProgramApplication
 	{
 		System.out.println(x+y);
 	}
+	public void mul(int x,int y)
+	{
+		System.out.println(x*y);
+	}
 
 }
