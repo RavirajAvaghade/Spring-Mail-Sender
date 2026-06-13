@@ -31,5 +31,9 @@ public class Springboot1MailSendingProgramApplication
 	{
 		System.out.println(x/y);
 	}
+	public void raviraj()
+	{
+		
+	}
 
 }
