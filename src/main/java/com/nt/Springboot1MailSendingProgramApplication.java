@@ -11,6 +11,7 @@ public class Springboot1MailSendingProgramApplication
 	{
 		SpringApplication.run(Springboot1MailSendingProgramApplication.class, args);
 	}
+	//Methods in program
 	public void run()
 	{
 		System.out.println("run");
