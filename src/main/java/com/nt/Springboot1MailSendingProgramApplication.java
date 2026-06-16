@@ -16,10 +16,6 @@ public class Springboot1MailSendingProgramApplication
 	{
 		System.out.println("run");
 	}
-	public void ravi()
-	{
-		System.out.println("ravi");
-	}
 	public void sum(int x, int y)
 	{
 		System.out.println(x+y);
